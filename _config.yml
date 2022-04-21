@@ -1,1 +1,16 @@
 theme: jekyll-theme-leap-day
+
+# Site Author
+author:
+  name: "Hyeongwoo Lee (Woody)"
+  bio: "**Structural Engineer** <br> **Researcher**"
+  location: "Seoul, Republic of Korea"
+links:
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: mailto:hwlee@cnpgroup.co.kr
+    
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/klm555"
+  

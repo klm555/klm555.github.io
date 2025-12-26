@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-척추측만증의-진단-iv-방사선검사-방사선측정-3-측만곡의-유연성측정",
+        
+          title: "척추측만증의 진단-IV. 방사선검사- 방사선측정 (3. 측만곡의 유연성측정)",
+        
+        description: "this is what included typograms code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/typograms-copy/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         

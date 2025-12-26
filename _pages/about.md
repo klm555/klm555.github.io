@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Bumin Hospital</a>. Haeundae, Busan. 010-9933-3503. csl3503@gmail.com
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>척추변형센터</p>
     <p>Bumin Hospital, Haeundae</p>
-    <p>Busan, Republic of Korea5</p>
+    <p>Busan, Republic of Korea</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

@@ -29,6 +29,14 @@ pagination:
   </div>
   {% endif %}
 
+  <div style="text-align: center; margin-bottom: 2rem;">
+    <p>
+      Korean Blog : <a href="https://blog.naver.com/csl3503" target="_blank">Link</a>.
+      <br>
+      한국어 블로그 바로가기 (<a href="https://blog.naver.com/csl3503" target="_blank">링크</a>)
+    </p>
+  </div>
+
 {% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
 
   <div class="tag-category-list">

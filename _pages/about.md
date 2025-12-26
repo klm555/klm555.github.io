@@ -36,3 +36,5 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 {% endcomment %}
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=ZCjk0RbWNdg2IhWfDHnYZytl2tIGvOlFoU00xEOYx4I&cl=ffffff&w=a"></script>

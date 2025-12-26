@@ -63,6 +63,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/Cobb%EC%94%A8%EA%B0%81-%EC%B8%A1%EC%A0%95/";
           
         },
+      },{id: "post-블로그-시작합니다",
+        
+          title: "블로그 시작합니다.",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/%EC%B2%AB%EA%B8%80/";
+          
+        },
       },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",

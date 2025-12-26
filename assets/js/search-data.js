@@ -30,47 +30,33 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-척추측만증의-진단-iv-방사선검사",
+        },{id: "post-척추측만증의-진단-iv-방사선검사-방사선측정-3-측만곡의-유연성측정",
         
-          title: "척추측만증의 진단-IV. 방사선검사",
+          title: "척추측만증의 진단-IV. 방사선검사 - 방사선측정 (3. 측만곡의 유연성측정)",
         
-        description: "방사선측정 (3. 측만곡의 유연성측정)",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025/%EC%B8%A1%EB%A7%8C%EA%B3%A1%EC%9D%98-%EC%9C%A0%EC%97%B0%EC%84%B1%EC%B8%A1%EC%A0%95/";
           
         },
-      },{id: "post-척추측만증의-진단-iv-방사선검사",
+      },{id: "post-척추측만증의-진단-iv-방사선검사-방사선측정-1-cobb씨각-측정",
         
-          title: "척추측만증의 진단-IV. 방사선검사",
+          title: "척추측만증의 진단-IV. 방사선검사 - 방사선측정 (1. Cobb씨각 측정)",
         
-        description: "방사선측정 (1. Cobb씨각 측정)",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025/Cobb%EC%94%A8%EA%B0%81-%EC%B8%A1%EC%A0%95/";
           
         },
-      },{id: "post-척추측만증의-진단-iv-방사선검사",
+      },{id: "post-척추측만증의-진단-iv-방사선검사-방사선측정-2-척추체회전-정도의-측정",
         
-          title: "척추측만증의 진단-IV. 방사선검사",
+          title: "척추측만증의 진단-IV. 방사선검사 - 방사선측정 (2. 척추체회전 정도의 측정)",
         
-        description: "방사선측정 (2. 척추체회전 정도의 측정)",
+        description: "",
         section: "Posts",
         handler: () => {
           

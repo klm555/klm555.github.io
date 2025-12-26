@@ -41,17 +41,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/%EC%B8%A1%EB%A7%8C%EA%B3%A1%EC%9D%98-%EC%9C%A0%EC%97%B0%EC%84%B1%EC%B8%A1%EC%A0%95/";
           
         },
-      },{id: "post-척추측만증의-진단-iv-방사선검사-방사선측정-1-cobb씨각-측정",
-        
-          title: "척추측만증의 진단-IV. 방사선검사 - 방사선측정 (1. Cobb씨각 측정)",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/Cobb%EC%94%A8%EA%B0%81-%EC%B8%A1%EC%A0%95/";
-          
-        },
       },{id: "post-척추측만증의-진단-iv-방사선검사-방사선측정-2-척추체회전-정도의-측정",
         
           title: "척추측만증의 진단-IV. 방사선검사 - 방사선측정 (2. 척추체회전 정도의 측정)",
@@ -61,6 +50,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/%EC%B2%99%EC%B6%94%EC%B2%B4%ED%9A%8C%EC%A0%84-%EC%A0%95%EB%8F%84%EC%9D%98-%EC%B8%A1%EC%A0%95/";
+          
+        },
+      },{id: "post-척추측만증의-진단-iv-방사선검사-방사선측정-1-cobb씨각-측정",
+        
+          title: "척추측만증의 진단-IV. 방사선검사 - 방사선측정 (1. Cobb씨각 측정)",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Cobb%EC%94%A8%EA%B0%81-%EC%B8%A1%EC%A0%95/";
           
         },
       },{id: "post-a-post-with-plotly-js",

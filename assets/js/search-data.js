@@ -59,6 +59,17 @@ ninja.data = [{
         
           title: "척추측만증의 진단-IV. 방사선검사",
         
+        description: "방사선측정 (1. Cobb씨각 측정)",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Cobb%EC%94%A8%EA%B0%81-%EC%B8%A1%EC%A0%95/";
+          
+        },
+      },{id: "post-척추측만증의-진단-iv-방사선검사",
+        
+          title: "척추측만증의 진단-IV. 방사선검사",
+        
         description: "방사선측정 (2. 척추체회전 정도의 측정)",
         section: "Posts",
         handler: () => {
@@ -437,8 +448,8 @@ ninja.data = [{
             },},{id: "news-부민병원-원장-취임",
           title: '부민병원 원장 취임',
           description: "",
-          section: "News",},{id: "news-abc-학회-발표-jean-shorts-raw-denim-vice-normcore-art-party-high-life-pbr-skateboard-stumptown-vinyl-kitsch-four-loko-meh-8-bit-tousled-banh-mi-tilde-forage-schlitz-dreamcatcher-twee-3-wolf-moon-chambray-asymmetrical-paleo-salvia-sartorial-umami-four-loko-master-cleanse-drinking-vinegar-brunch-pinterest-diy-authentic-schlitz-hoodie-intelligentsia-butcher-trust-fund-brunch-shabby-chic-kickstarter-forage-flexitarian-direct-trade-cold-pressed-meggings-stumptown-plaid-pop-up-taxidermy-hoodie-xoxo-fingerstache-scenester-echo-park-plaid-ugh-wes-anderson-freegan-pug-selvage-fanny-pack-leggings-pickled-food-truck-diy-irony-banksy-hipster-list-brunch-fixie-raybans-messenger-bag-hoodie-thundercats-retro-tote-bag-8-bit-godard-craft-beer-gastropub-truffaut-tumblr-taxidermy-raw-denim-kickstarter-sartorial-dreamcatcher-quinoa-chambray-slow-carb-salvia-readymade-bicycle-rights-90-s-yr-typewriter-selfies-letterpress-cardigan-vegan-pug-heirloom-high-life-vinyl-swag-single-origin-coffee-four-dollar-toast-taxidermy-reprehenderit-fap-distillery-master-cleanse-locavore-est-anim-sapiente-leggings-brooklyn-ea-thundercats-locavore-excepteur-veniam-eiusmod-raw-denim-truffaut-schlitz-migas-sapiente-portland-vhs-twee-bushwick-marfa-typewriter-retro-id-keytar-we-do-not-grow-absolutely-chronologically-we-grow-sometimes-in-one-dimension-and-not-in-another-unevenly-we-grow-partially-we-are-relative-we-are-mature-in-one-realm-childish-in-another-anais-nin-fap-aliqua-qui-scenester-pug-echo-park-polaroid-irony-shabby-chic-ex-cardigan-church-key-odd-future-accusamus-blog-stumptown-sartorial-squid-gastropub-duis-aesthetic-truffaut-vero-pinterest-tilde-twee-odio-mumblecore-jean-shorts-lumbersexual",
-          title: 'ABC 학회 발표 Jean shorts raw denim Vice normcore, art party High Life...',
+          section: "News",},{id: "news-abc-학회-발표-부산에서-열린-abc-학회에서-측만곡의-유연성측정에-관해-발표",
+          title: 'ABC 학회 발표    부산에서 열린 ABC 학회에서 측만곡의 유연성측정에 관해 발표',
           description: "",
           section: "News",},{id: "news-윌스기념병원-원장-취임",
           title: '윌스기념병원 원장 취임',

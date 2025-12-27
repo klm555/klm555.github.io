@@ -24,8 +24,8 @@
   },
   "work": [
     {
-      "name": "Spine Center, Haeundae Bumin Hospital",
-      "position": "Chief Medical Officer (CMO)", 
+      "name": "Haeundae Bumin Hospital",
+      "position": "Chief Medical Officer (CMO), Spine Center", 
       "url": "https://www.bumin.co.kr/haeundae/",
       "startDate": "2022-03-01",
       "endDate": "",
@@ -37,7 +37,7 @@
       "position": "Instructor, Dept. of Orthopedic Surgery",
       "url": "https://www.gnu.ac.kr/",
       "startDate": "1989-04-01",
-      "endDate": "",
+      "endDate": "1991-10-01",  
       "summary": "",
       "highlights": ["Orthopedic Surgery"]
     },
@@ -46,7 +46,7 @@
       "position": "Assistant Professor, College of Medicine",
       "url": "https://www.gnu.ac.kr/",
       "startDate": "1991-10-01",
-      "endDate": "",
+      "endDate": "1994-07-01",
       "summary": "",
       "highlights": ["Medicine"]
     },
@@ -64,7 +64,7 @@
       "position": "Chief of Spine Section, Department of Orthopedic Surgery",
       "url": "https://www.samsunghospital.com/",
       "startDate": "1994-07-01",
-      "endDate": "",
+      "endDate": "2022-03-01",
       "summary": "",
       "highlights": ["Spine Surgery"]
     },
@@ -82,7 +82,7 @@
       "position": "Professor, Department of Orthopedic Surgery",
       "url": "https://www.skku.edu/",
       "startDate": "2002-09-01",
-      "endDate": "",
+      "endDate": "2022-03-01",
       "summary": "",
       "highlights": ["Orthopedic Surgery"]
     },
@@ -100,7 +100,7 @@
       "position": "Chairman & Head Professor of Orthopedic Surgery",
       "url": "https://www.skku.edu/",
       "startDate": "2011-11-01",
-      "endDate": "",
+      "endDate": "2022-03-01",
       "summary": "",
       "highlights": ["Orthopedic Surgery"]
     },
@@ -109,7 +109,7 @@
       "position": "Director, Spine Center",
       "url": "https://www.samsunghospital.com/",
       "startDate": "2013-08-01",
-      "endDate": "",
+      "endDate": "2022-03-01",
       "summary": "",
       "highlights": ["Spine Center"]
     }
@@ -150,7 +150,7 @@
       "courses": []
     },
     {
-      "institution": "Seoul National University, Graduate School, College of Medicine",
+      "institution": "Seoul National University, College of Medicine",
       "location": "Seoul, South Korea",
       "url": "https://medicine.snu.ac.kr/",
       "area": "Medicine",
@@ -161,7 +161,7 @@
       "courses": []
     },
     {
-      "institution": "Seoul National University, Graduate School, College of Medicine",
+      "institution": "Seoul National University, College of Medicine",
       "location": "Seoul, South Korea",
       "url": "https://medicine.snu.ac.kr/",
       "area": "Medicine",
@@ -174,32 +174,11 @@
   ],
   "awards": [
     {
-      "title": "The 1st Travelling Fellowship",
-      "date": "1991-01-01",
-      "awarder": "The Korean Orthopedic Association",
+      "title": "The Best Poster Award",
+      "date": "2017-07-29",
+      "awarder": "PASMISS 2017",
       "url": "",
       "summary": ""
-    },
-    {
-      "title": "The Best Oral Presentation Award (Hyangsan Academic Award)",
-      "date": "1998-11-27",
-      "awarder": "The Korean Society of Spine Surgery",
-      "url": "",
-      "summary": "Paper: \"Normal Patterns of Spinal Sagittal Alignment\""
-    },
-    {
-      "title": "The Best Paper Award",
-      "date": "2009-05-29",
-      "awarder": "The Korean Society of Spine Surgery",
-      "url": "",
-      "summary": "Paper: \"The Effects of Intersegmental Compression on the 3-D Correction of Idiopathic Scoliosis Using Thoracoscopic Surgery\""
-    },
-    {
-      "title": "The Best Paper Award",
-      "date": "2010-05-28",
-      "awarder": "The Korean Society of Spine Surgery",
-      "url": "",
-      "summary": "Paper: \"Correlation of Pelvic parameters with Isthmic Spondylolisthesis\""
     },
     {
       "title": "The Best Published Article Award (International Journal)",
@@ -209,9 +188,30 @@
       "summary": "Article: \"Normal patterns of sagittal alignment of the spine in young adults: radiological analysis in a Korean population\" (Lee CS, Chung SS, Kang KC, Park SJ, Shin SK. Spine. 2011 Dec 1;36(25):E1648-54)"
     },
     {
-      "title": "The Best Poster Award",
-      "date": "2017-07-29",
-      "awarder": "PASMISS 2017",
+      "title": "The Best Paper Award",
+      "date": "2010-05-28",
+      "awarder": "The Korean Society of Spine Surgery",
+      "url": "",
+      "summary": "Paper: \"Correlation of Pelvic parameters with Isthmic Spondylolisthesis\""
+    },
+    {
+      "title": "The Best Paper Award",
+      "date": "2009-05-29",
+      "awarder": "The Korean Society of Spine Surgery",
+      "url": "",
+      "summary": "Paper: \"The Effects of Intersegmental Compression on the 3-D Correction of Idiopathic Scoliosis Using Thoracoscopic Surgery\""
+    },
+    {
+      "title": "The Best Oral Presentation Award (Hyangsan Academic Award)",
+      "date": "1998-11-27",
+      "awarder": "The Korean Society of Spine Surgery",
+      "url": "",
+      "summary": "Paper: \"Normal Patterns of Spinal Sagittal Alignment\""
+    },
+    {
+      "title": "The 1st Travelling Fellowship",
+      "date": "1991-01-01",
+      "awarder": "The Korean Orthopedic Association",
       "url": "",
       "summary": ""
     }
@@ -291,15 +291,10 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Orthopedic",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Scoliosis"
       ]
     }
   ],

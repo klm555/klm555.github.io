@@ -74,17 +74,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/%EC%B2%99%EC%B6%94%EC%B8%A1%EB%A7%8C%EC%A6%9D/";
           
         },
-      },{id: "post-what-is-scoliosis",
-        
-          title: "What is Scoliosis?",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/scoliosis/";
-          
-        },
       },{id: "post-블로그-시작합니다",
         
           title: "블로그 시작합니다.",

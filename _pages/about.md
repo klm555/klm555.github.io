@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Bumin Hospital</a>. Haeundae, Busan. 010-9933-3503. csl3503@gmail.com
+subtitle:
 
 profile:
   align: right
@@ -26,6 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+A veteran spine surgeon with a 35-year career specializing in pediatric and adult spinal deformities, currently dedicated to curating accurate, non-commercial knowledge regarding scoliosis.
 
 본인은 약 35년간 척추수술을 해온 척추외과전문의로서  특히, 소아척추변형과 성인척추변형에 관한 수술과 학술활동을 해왔으며 아직도 이를 지속하고 있읍니다.  
 인터넷상에 떠도는 척추측만증에 관한 많은 정보를 정리하고자 합니다.   

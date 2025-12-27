@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-척추측만증의-진단-iv-방사선검사-방사선측정-3-측만곡의-유연성측정",
+        },{id: "post-what-is-scoliosis",
+        
+          title: "What is Scoliosis?",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/scoliosis/";
+          
+        },
+      },{id: "post-척추측만증의-진단-iv-방사선검사-방사선측정-3-측만곡의-유연성측정",
         
           title: "척추측만증의 진단-IV. 방사선검사 - 방사선측정 (3. 측만곡의 유연성측정)",
         

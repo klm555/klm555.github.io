@@ -1,18 +1,18 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
+  "personal": {
+    "name": "Chong-Suh Lee",
     "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "image": "prof_pic.png",
+    "email": "csl3503@gmail.com",
+    "phone": "+82-10-9933-3503",
+    "url": "https://klm555.github.io/",
+    "summary": "A veteran spine surgeon with a 35-year career specializing in pediatric and adult spinal deformities, currently dedicated to curating accurate, non-commercial knowledge regarding scoliosis.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Haeundae",
+      "countryCode": "Republic of Korea",
+      "region": "Busan"
     },
     "profiles": [
       {
@@ -24,13 +24,94 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Spine Center, Haeundae Bumin Hospital",
+      "position": "Chief Medical Officer (CMO)", 
+      "url": "https://www.bumin.co.kr/haeundae/",
+      "startDate": "2022-03-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Scoliosis"]
+    },
+    {
+      "name": "Gyeong-Sang National University (GNU)",
+      "position": "Instructor, Dept. of Orthopedic Surgery",
+      "url": "https://www.gnu.ac.kr/",
+      "startDate": "1989-04-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Orthopedic Surgery"]
+    },
+    {
+      "name": "Gyeong-Sang National University (GNU)",
+      "position": "Assistant Professor, College of Medicine",
+      "url": "https://www.gnu.ac.kr/",
+      "startDate": "1991-10-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Medicine"]
+    },
+    {
+      "name": "Gyeong-Sang National University Hospital",
+      "position": "Chairman, Department of Orthopedic Surgery",
+      "url": "https://www.gnuh.co.kr/",
+      "startDate": "1991-10-01",
+      "endDate": "1992-12-01",
+      "summary": "",
+      "highlights": ["Orthopedic Surgery"]
+    },
+    {
+      "name": "Samsung Medical Center",
+      "position": "Chief of Spine Section, Department of Orthopedic Surgery",
+      "url": "https://www.samsunghospital.com/",
+      "startDate": "1994-07-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Spine Surgery"]
+    },
+    {
+      "name": "Samsung Medical Center, Sungkyunkwan University School of Medicine",
+      "position": "Associate Professor, Department of Orthopedic Surgery",
+      "url": "https://www.skku.edu/",
+      "startDate": "1997-03-01",
+      "endDate": "2002-09-01",
+      "summary": "",
+      "highlights": ["Orthopedic Surgery"]
+    },
+    {
+      "name": "Samsung Medical Center, Sungkyunkwan University School of Medicine",
+      "position": "Professor, Department of Orthopedic Surgery",
+      "url": "https://www.skku.edu/",
+      "startDate": "2002-09-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Orthopedic Surgery"]
+    },
+    {
+      "name": "Samsung Medical Center",
+      "position": "Director, Spine Center",
+      "url": "https://www.samsunghospital.com/",
+      "startDate": "2009-09-01",
+      "endDate": "2011-11-01",
+      "summary": "",
+      "highlights": ["Spine Center"]
+    },
+    {
+      "name": "Samsung Medical Center, Sungkyunkwan University School of Medicine",
+      "position": "Chairman & Head Professor of Orthopedic Surgery",
+      "url": "https://www.skku.edu/",
+      "startDate": "2011-11-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Orthopedic Surgery"]
+    },
+    {
+      "name": "Samsung Medical Center",
+      "position": "Director, Spine Center",
+      "url": "https://www.samsunghospital.com/",
+      "startDate": "2013-08-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Spine Center"]
     }
   ],
   "volunteer": [
@@ -47,68 +128,115 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Seoul National University, College of Natural Sciences",
+      "location": "Seoul, South Korea",
+      "url": "https://science.snu.ac.kr/",
+      "area": "Premedical Studies",
+      "studyType": "Premedical School",
+      "startDate": "1975-03-01",
+      "endDate": "1977-02-28",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Seoul National University, College of Medicine",
+      "location": "Seoul, South Korea",
+      "url": "https://medicine.snu.ac.kr/",
+      "area": "Medicine",
+      "studyType": "B.A. Degree",
+      "startDate": "1977-03-01",
+      "endDate": "1981-02-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Seoul National University, Graduate School, College of Medicine",
+      "location": "Seoul, South Korea",
+      "url": "https://medicine.snu.ac.kr/",
+      "area": "Medicine",
+      "studyType": "Master's Degree",
+      "startDate": "1987-03-01",
+      "endDate": "1989-02-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Seoul National University, Graduate School, College of Medicine",
+      "location": "Seoul, South Korea",
+      "url": "https://medicine.snu.ac.kr/",
+      "area": "Medicine",
+      "studyType": "Ph.D. Degree",
+      "startDate": "1991-03-01",
+      "endDate": "1996-02-01",
+      "score": "",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "The 1st Travelling Fellowship",
+      "date": "1991-01-01",
+      "awarder": "The Korean Orthopedic Association",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "The Best Oral Presentation Award (Hyangsan Academic Award)",
+      "date": "1998-11-27",
+      "awarder": "The Korean Society of Spine Surgery",
+      "url": "",
+      "summary": "Paper: \"Normal Patterns of Spinal Sagittal Alignment\""
+    },
+    {
+      "title": "The Best Paper Award",
+      "date": "2009-05-29",
+      "awarder": "The Korean Society of Spine Surgery",
+      "url": "",
+      "summary": "Paper: \"The Effects of Intersegmental Compression on the 3-D Correction of Idiopathic Scoliosis Using Thoracoscopic Surgery\""
+    },
+    {
+      "title": "The Best Paper Award",
+      "date": "2010-05-28",
+      "awarder": "The Korean Society of Spine Surgery",
+      "url": "",
+      "summary": "Paper: \"Correlation of Pelvic parameters with Isthmic Spondylolisthesis\""
+    },
+    {
+      "title": "The Best Published Article Award (International Journal)",
+      "date": "2012-05-25",
+      "awarder": "The Korean Society of Spine Surgery",
+      "url": "",
+      "summary": "Article: \"Normal patterns of sagittal alignment of the spine in young adults: radiological analysis in a Korean population\" (Lee CS, Chung SS, Kang KC, Park SJ, Shin SK. Spine. 2011 Dec 1;36(25):E1648-54)"
+    },
+    {
+      "title": "The Best Poster Award",
+      "date": "2017-07-29",
+      "awarder": "PASMISS 2017",
+      "url": "",
+      "summary": ""
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Certification of M.D. (No. 22930)",
+      "date": "1981-01-01",
+      "issuer": "Republic of Korea",
+      "url": "",
+      "icon": ""
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Certified Board of Orthopedic Surgery (No. 1318)",
+      "date": "1989-01-01",
+      "issuer": "Korean Board of Orthopedic Surgery",
+      "url": "",
+      "icon": ""
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Certification of Tissue Bank Specialist (No. 21)",
+      "date": "2008-11-03",
+      "issuer": "",
+      "url": "",
+      "icon": ""
     }
   ],
   "publications": [

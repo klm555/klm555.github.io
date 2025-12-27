@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is Scoliosis?
-date: 2025-10-26 21:16:00
+date: 2025-12-28 02:08:00
 description:
 tags: ScoliosisRadiography ScoliosisRadiographicMeasurement SpinalCurveFlexibilityMeasurement SpinalCurveFlexibility FlexibilityXrayMethod VoluntarySideBending PassiveSideBending TractionXray FulcrumBending
 categories: Scoliosis
@@ -15,7 +15,7 @@ The spine consists of 33 bones connected by ligaments, joints, and discs to form
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/척추1.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/척추1.png" class="img-fluid rounded z-depth-1" width="50%" %}
     </div>
 </div>
 
@@ -23,7 +23,7 @@ When the spine is **viewed from the front or back**, it should appear straight i
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/정상척추배열.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/정상척추배열.png" class="img-fluid rounded z-depth-1" width="50%" %}
     </div>
 </div>
 
@@ -33,7 +33,7 @@ To assess spinal deformity via radiography, it is necessary to understand the sp
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/척추구조물.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/척추구조물.png" class="img-fluid rounded z-depth-1" width="50%" %}
     </div>
 </div>
 </blockquote>
@@ -47,7 +47,7 @@ According to the definition established by the **Scoliosis Research Society (SRS
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/측만모양.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/측만모양.png" class="img-fluid rounded z-depth-1" width="50%" %}
     </div>
 </div>
 
@@ -59,6 +59,6 @@ A **normal, straight spine** has a Cobb angle of 0 degrees. A curvature between 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/정상 Cobb각.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/정상 Cobb각.png" class="img-fluid rounded z-depth-1" width="50%" %}
     </div>
 </div>

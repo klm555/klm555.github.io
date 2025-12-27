@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.png
+  image: cslee.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>척추변형센터</p>

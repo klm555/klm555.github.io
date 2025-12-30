@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-what-is-scoliosis",
+        },{id: "post-welcome-to-my-new-blog",
+        
+          title: "Welcome to My New Blog",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/first-posting/";
+          
+        },
+      },{id: "post-what-is-scoliosis",
         
           title: "What is Scoliosis?",
         

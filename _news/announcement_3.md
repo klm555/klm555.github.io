@@ -5,4 +5,3 @@ inline: true
 related_posts: false
 ---
 
-부민병원 원장 취임

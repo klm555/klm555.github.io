@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-ABC 학회 발표
+AAA 학회 발표
 
 ---
 

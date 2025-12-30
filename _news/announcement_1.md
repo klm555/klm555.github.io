@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-제 26회 대한척추신기술학회 추계 정기학술대회 참석
+Attended the 26th Autumn Academic Conference of the Korean Society for the Advancement of Spine Surgery (KOSASS)

@@ -3,7 +3,7 @@ layout: post
 title: What is Scoliosis?
 date: 2025-12-27 02:08:00
 description:
-tags: ScoliosisRadiography ScoliosisRadiographicMeasurement SpinalCurveFlexibilityMeasurement SpinalCurveFlexibility FlexibilityXrayMethod VoluntarySideBending PassiveSideBending TractionXray FulcrumBending
+tags: Scoliosis_Radiography Scoliosis_Radiographic_Measurement Spinal_Curve_Flexibility_Measurement Spinal_Curve_Flexibility Flexibility_X_ray_Method Voluntary_Side_Bending Passive_Side_Bending Traction_X_ray Fulcrum_Bending
 categories: Scoliosis
 typograms: true
 featured: false

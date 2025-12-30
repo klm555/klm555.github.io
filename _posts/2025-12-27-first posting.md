@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Welcome to My New Blog
-date: 2025-12-29 11:55:00
+date: 2025-12-27 01:55:00
 description:
-tags: FirstPost Scoliosis AccurateInformation
+tags: First_Post Scoliosis Accurate_Information
 categories: Scoliosis
 typograms: true
 featured: true

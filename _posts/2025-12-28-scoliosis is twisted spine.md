@@ -93,7 +93,7 @@ This three-dimensional deformity results in the following physical changes.
 </div>
 
 <div class="caption">
-    You can observe a **rib hump**, where one side of the back protrudes due to vertebral rotation. This is a characteristic deformity seen in scoliosis.
+    You can observe a <b>rib hump</b>, where one side of the back protrudes due to vertebral rotation. This is a characteristic deformity seen in scoliosis.
 </div>
 
 > In conclusion,<br>**The Fundamental Deformity of Scoliosis**<br>**3D Deformity : Lateral Curvature + Vertebral Rotation + Loss of Kyphosis**

@@ -126,6 +126,61 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
+  "hospital training": [
+    {
+      "institution": "SNU Hospital",
+      "location": "Seoul, Korea",
+      "studyType": "Internship",
+      "startDate": "1984",
+      "endDate": "1985"
+    },
+    {
+      "institution": "SNU Hospital",
+      "location": "Seoul, Korea",
+      "studyType": "Residency",
+      "area": "Department of Orthopedic Surgery",
+      "startDate": "1985",
+      "endDate": "1989"
+    },
+    {
+      "institution": "Board of Orthopaedic Surgery",
+      "studyType": "Board Certification",
+      "startDate": "1989-02",
+      "endDate": "1989-02"
+    },
+    {
+      "institution": "Rehabilitationskrankenhaus",
+      "location": "Karlsbad, Germany",
+      "studyType": "Clinical Fellowship",
+      "supervisor": "Prof. Jurgen Harms",
+      "startDate": "1993-01",
+      "endDate": "1993-08"
+    },
+    {
+      "institution": "Sahlgren Hospital",
+      "location": "Gothenburg, Sweden",
+      "studyType": "Clinical Fellowship",
+      "supervisor": "Prof. Alf Nachemson",
+      "startDate": "1993-09",
+      "endDate": "1994-07"
+    },
+    {
+      "institution": "Hochtaunus Regional Clinic",
+      "location": "Bad Homburg, Germany",
+      "studyType": "Visiting Fellowship",
+      "supervisor": "Dr. Daniel J. Rosenthal",
+      "startDate": "2000-05",
+      "endDate": "2000-06"
+    },
+    {
+      "institution": "Clinique du Parc",
+      "location": "Montpellier, France",
+      "studyType": "Visiting Fellowship",
+      "supervisor": "Dr. Thierry Marnay",
+      "startDate": "2000-06",
+      "endDate": "2000-07"
+    }
+  ],
   "education": [
     {
       "institution": "Seoul National University, College of Natural Sciences",

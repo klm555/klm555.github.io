@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-welcome-to-my-new-blog",
+        },{id: "post-scoliosis-is-not-just-a-sideways-curve-it-is-a-twisted-spine",
         
-          title: "Welcome to My New Blog",
+          title: "Scoliosis Is Not Just a Sideways Curve, It Is a Twisted Spine.",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/first-posting/";
+            window.location.href = "/blog/2025/scoliosis-is-twisted-spine/";
           
         },
       },{id: "post-what-is-scoliosis",
@@ -50,6 +50,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/scoliosis/";
+          
+        },
+      },{id: "post-welcome-to-my-new-blog",
+        
+          title: "Welcome to My New Blog",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/first-posting/";
           
         },
       },{id: "post-척추측만증의-진단-iv-방사선검사-방사선측정-3-측만곡의-유연성측정",
@@ -134,14 +145,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-부민병원-원장-취임",
-          title: '부민병원 원장 취임',
+            },},{id: "news-",
+          title: '',
           description: "",
-          section: "News",},{id: "news-abc-학회-발표-부산에서-열린-abc-학회에서-측만곡의-유연성측정에-관해-발표",
-          title: 'ABC 학회 발표    부산에서 열린 ABC 학회에서 측만곡의 유연성측정에 관해 발표',
+          section: "News",},{id: "news-aaa-학회-발표-부산에서-열린-abc-학회에서-측만곡의-유연성측정에-관해-발표",
+          title: 'AAA 학회 발표    부산에서 열린 ABC 학회에서 측만곡의 유연성측정에 관해 발표',
           description: "",
-          section: "News",},{id: "news-제-26회-대한척추신기술학회-추계-정기학술대회-참석",
-          title: '제 26회 대한척추신기술학회 추계 정기학술대회 참석',
+          section: "News",},{id: "news-attended-the-26th-autumn-academic-conference-of-the-korean-society-for-the-advancement-of-spine-surgery-kosass",
+          title: 'Attended the 26th Autumn Academic Conference of the Korean Society for the Advancement...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

@@ -25,11 +25,7 @@ Some posts may contain in-depth material suitable for medical residents. However
 ​
 
 ## Understanding Scoliosis: A Deep Dive
-> Going beyond the idea that "books for the public should be easy, even if they lack detail,"
-
-> I excluded biased information and
-
-> Strived to provide content based on the latest evidence-based medicine.
+> *Going beyond the idea that "books for the public should be easy, even if they lack detail,"<br>I excluded biased information and<br>Strived to provide content based on the latest evidence-based medicine.*
 
 We live in an era of information overload, where the general public can easily access a vast amount of medical information to check their health and manage diseases. However, this flood of information can often confuse patients regarding what is right and wrong. As a spine specialist who has treated patients for over 30 years, I have often felt that while some patients possess surprisingly advanced information, they can also be unexpectedly uninformed about the basics.
 

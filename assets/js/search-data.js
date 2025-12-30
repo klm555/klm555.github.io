@@ -93,7 +93,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/%EC%B2%99%EC%B6%94%EC%B8%A1%EB%A7%8C%EC%A6%9D%EC%9D%80-%EC%B2%99%EC%B6%94%EA%B0%80-%EA%BC%AC%EC%9D%B8%EA%B2%83-copy/";
+            window.location.href = "/blog/2025/%EC%B2%99%EC%B6%94%EC%B8%A1%EB%A7%8C%EC%A6%9D%EC%9D%80-%EC%B2%99%EC%B6%94%EA%B0%80-%EA%BC%AC%EC%9D%B8%EA%B2%83/";
           
         },
       },{id: "post-척추측만증-척추옆굽음증-이란",

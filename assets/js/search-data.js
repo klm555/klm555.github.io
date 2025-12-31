@@ -96,6 +96,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/Cobb%EC%94%A8%EA%B0%81-%EC%B8%A1%EC%A0%95/";
           
         },
+      },{id: "post-가짜척추측만증-i-체위성-척추측만증",
+        
+          title: "가짜척추측만증-I. 체위성 척추측만증",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/%EC%B2%B4%EC%9C%84%EC%84%B1-%EC%B2%99%EC%B6%94%EC%B8%A1%EB%A7%8C%EC%A6%9D/";
+          
+        },
       },{id: "post-가짜측만증이-있다구요",
         
           title: "가짜측만증이 있다구요?",

@@ -8,9 +8,8 @@ nav_order: 6  # 메뉴 순서를 조정하려면 이 숫자를 변경하세요
 
 <div class="row justify-content-center mb-5">
   <div class="col-md-8 text-center">
-    <h3 class="mt-4">You Are Always Welcome.</h3>
-    <p class="lead text-muted">
-      Feel free to reach out with any questions or just to say hi!
+    <p class="lead text-muted mt-4">
+      Feel free to reach out with any questions, discussions, or just to say hi!
     </p>
   </div>
 </div>

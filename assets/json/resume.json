@@ -227,6 +227,133 @@
       "courses": []
     }
   ],
+  "membership": [
+    { "name": "KOREAN ORTHOPEDIC ASSOCIATION (KOA)" },
+    { "name": "KOREAN SOCIETY OF SPINE SURGERY" },
+    { "name": "KOREAN Society of Advanced Spine Surgery (KOSASS)" },
+    { "name": "PACIFIC-ASIAN SOCIETY OF MINIMALLY INVASIVE SPINE SURGERY (PASMISS)" },
+    { "name": "SCOLIOSIS RESEARCH SOCIETY (SRS, ACTIVE FELLOW)" },
+    { "name": "INTERNATIONAL SOCIETY OF ADVANCED SPINE SURGERY(ISASS)" },
+    { "name": "AO SPINE ASIA PACIFIC" }
+  ],
+  "present_social_activity": [
+    {
+      "position": "Member, Spinal Deformity Committee",
+      "name": "Korean Society of Spine Surgery",
+      "startDate": "2002-09-01",
+      "endDate": ""
+    },
+    {
+      "position": "Editor-in-Chief Emeritus",
+      "name": "Asian Spine Journal",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "position": "Advisor",
+      "name": "Korean Society of Spine Surgery (KSSS)",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "position": "President of Medical Affairs",
+      "name": "Haeundae Bumin Hospital",
+      "startDate": "2022-03-01",
+      "endDate": ""
+    },
+    {
+      "position": "Chairman",
+      "name": "LASS (Lateral Access Surgery Symposium) Korean Chapter",
+      "startDate": "2025-09-01",
+      "endDate": ""
+    }
+  ],
+  "past_social_activity": [
+    {
+      "position": "President",
+      "name": "Korean Spine Arthroplasty Society",
+      "startDate": "2004-04-24",
+      "endDate": "2010-04-03"
+    },
+    {
+      "position": "President",
+      "name": "Korean Society of Advanced Spine Surgery (KOSASS)",
+      "startDate": "2010-04-03",
+      "endDate": "2012-10-10"
+    },
+    {
+      "position": "President",
+      "name": "Korean Musculoskeletal Tissue Transplantation Society",
+      "startDate": "2010-11-27",
+      "endDate": "2011-11-26"
+    },
+    {
+      "position": "President",
+      "name": "Korean Society of Spine Surgery",
+      "startDate": "2013-05-25",
+      "endDate": "2014-05-24"
+    },
+    {
+      "position": "President",
+      "name": "Korean Society of Spine Tumor",
+      "startDate": "2013-03-30",
+      "endDate": "2014-03-29"
+    },
+    {
+      "position": "Chairman & Head Professor",
+      "name": "Department of Orthopedic Surgery, Samsung Medical Center",
+      "startDate": "2011-11-10",
+      "endDate": "2013-11-09"
+    },
+    {
+      "position": "Director",
+      "name": "Spine Center, Samsung Medical Center",
+      "startDate": "2009-09-01",
+      "endDate": "2011-11-10"
+    },
+    {
+      "position": "Director",
+      "name": "Spine Center, Samsung Medical Center",
+      "startDate": "2012-09-01",
+      "endDate": "2021-03-01"
+    },
+    {
+      "position": "Board Member of Directors",
+      "name": "The Korean Orthopedic Association",
+      "startDate": "2012-11-08",
+      "endDate": "2014-11-08"
+    },
+    {
+      "position": "Board Member of Directors",
+      "name": "Korean Society of Spine Surgery",
+      "startDate": "2009-11-01",
+      "endDate": "2020-05-01"
+    },
+    {
+      "position": "Board Member of Directors",
+      "name": "Pacific-Asian Society of Minimally Invasive Spine Surgery (PASMISS)",
+      "startDate": "2002-05-01",
+      "endDate": "2023-02-01"
+    },
+    {
+      "position": "Deputy Editor",
+      "name": "Asian Spine Journal",
+      "startDate": "2007-10-01",
+      "endDate": "2014-05-01"
+    },
+    {
+      "position": "Editor-in-Chief",
+      "name": "Asian Spine Journal",
+      "startDate": "2014-05-01",
+      "endDate": "2020-06-01"
+    },
+    {
+      "position": "Member of Foreign Affair Committee",
+      "name": "The Korean Orthopedic Association",
+      "startDate": "2017-11-15",
+      "endDate": "2023-11-15"
+    }
+  ],
   "awards": [
     {
       "title": "The Best Poster Award",

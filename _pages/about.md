@@ -27,11 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-A veteran spine surgeon with a 35-year career specializing in pediatric and adult spinal deformities, currently dedicated to curating accurate, non-commercial knowledge regarding scoliosis.
+As a spine surgeon with approximately 35 years of experience, I have dedicated my career to the surgical treatment and academic research of spinal deformities in both children and adults. I remain actively engaged in clinical practice and research to this day.
 
-본인은 약 35년간 척추수술을 해온 척추외과전문의로서  특히, 소아척추변형과 성인척추변형에 관한 수술과 학술활동을 해왔으며 아직도 이를 지속하고 있읍니다.  
-인터넷상에 떠도는 척추측만증에 관한 많은 정보를 정리하고자 합니다.   
-상업적인 글이 아니며 본인을 홍보하는 글이 아니기 때문에 본인에 대한 소개 및 본인을 암시하는 내용은 되도록 기술하지 않도록 하겠읍니다.
+Through my posts here, I aim to correct the widespread misinformation regarding scoliosis found online and provide visitors with accurate, medically proven facts.
+
+본인은 약 35년간 척추수술을 해온 척추외과 전문의로서, 특히 소아 척추변형과 성인 척추변형에 관한 수술과 학술활동에 매진해 왔으며, 현재도 현역에서 활발히 이를 이어가고 있습니다.  
+이 공간을 통해 인터넷상에 무분별하게 퍼져 있는 척추측만증에 관한 정보를 올바르게 정리하여, 정확한 의학적 사실을 전달하고자 합니다.
 
 {% comment %}
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.

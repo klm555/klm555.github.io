@@ -345,11 +345,13 @@
     }
   ],
   "interests": [
-    {
+    { 
       "name": "Orthopedic",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Scoliosis"
+        "Sagittal Alignment of the Spine", "Spinal Deformity: Scoliosis, Kyphosis", 
+        "Spine tumor", "Motion Preservation Technology: TDR, Dynamic stabilization",
+        "Minimal Invasive Spine Surgery: Miniopen ALIF, Miniopen PLIF, Thoracoscopic Spine Surgery, Microscopic Spine Surgery"
       ]
     }
   ],

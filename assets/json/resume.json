@@ -227,15 +227,6 @@
       "courses": []
     }
   ],
-  "membership": [
-    { "name": "KOREAN ORTHOPEDIC ASSOCIATION (KOA)" },
-    { "name": "KOREAN SOCIETY OF SPINE SURGERY" },
-    { "name": "KOREAN Society of Advanced Spine Surgery (KOSASS)" },
-    { "name": "PACIFIC-ASIAN SOCIETY OF MINIMALLY INVASIVE SPINE SURGERY (PASMISS)" },
-    { "name": "SCOLIOSIS RESEARCH SOCIETY (SRS, ACTIVE FELLOW)" },
-    { "name": "INTERNATIONAL SOCIETY OF ADVANCED SPINE SURGERY(ISASS)" },
-    { "name": "AO SPINE ASIA PACIFIC" }
-  ],
   "present social activity": [
     {
       "position": "Member, Spinal Deformity Committee",
@@ -354,6 +345,15 @@
       "endDate": "2023-11-15"
     }
   ],
+  "membership": [
+    { "name": "KOREAN ORTHOPEDIC ASSOCIATION (KOA)" },
+    { "name": "KOREAN SOCIETY OF SPINE SURGERY" },
+    { "name": "KOREAN Society of Advanced Spine Surgery (KOSASS)" },
+    { "name": "PACIFIC-ASIAN SOCIETY OF MINIMALLY INVASIVE SPINE SURGERY (PASMISS)" },
+    { "name": "SCOLIOSIS RESEARCH SOCIETY (SRS, ACTIVE FELLOW)" },
+    { "name": "INTERNATIONAL SOCIETY OF ADVANCED SPINE SURGERY(ISASS)" },
+    { "name": "AO SPINE ASIA PACIFIC" }
+  ],
   "awards": [
     {
       "title": "The Best Poster Award",
@@ -471,7 +471,7 @@
       "icon": ""
     }
   ],
-  "interests": [
+  "special interests": [
     { 
       "name": "Orthopedic",
       "icon": "fa-solid fa-tag",

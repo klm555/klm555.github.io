@@ -639,9 +639,9 @@ jsonresume:
   # - publications
   # - projects
   # - volunteer
-  - membership
   - present social activity
   - past social activity
+  - membership
   - awards
   - certificates
   # - skills

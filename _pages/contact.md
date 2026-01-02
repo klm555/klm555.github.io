@@ -1,16 +1,15 @@
 ---
 layout: page
-title: Contact
+title: contact
 permalink: /contact/
 nav: true
-nav_order: 5  # 메뉴 순서를 조정하려면 이 숫자를 변경하세요
+nav_order: 6  # 메뉴 순서를 조정하려면 이 숫자를 변경하세요
 ---
 
 <div class="row justify-content-center mb-5">
   <div class="col-md-8 text-center">
-    <h3 class="mt-4">Let's Get in Touch!</h3>
+    <h3 class="mt-4">You Are Always Welcome.</h3>
     <p class="lead text-muted">
-      I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. 
       Feel free to reach out with any questions or just to say hi!
     </p>
   </div>

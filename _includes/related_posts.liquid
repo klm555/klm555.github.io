@@ -23,14 +23,14 @@
     <br>
     {% endif %}
 
-  <p class="mb-2">More posts</p>
+  <p class="mb-2">More posts:</p>
 
   <ul class="list-disc pl-8">
     {% for post in related_posts %}
       <li class="my-2">
         {% if post.url == page.url %}
-          <span class="text-pink-700 font-bold">
-            {{ post.title }} (Current)
+          <span class="text-pink-700 font-bold" style="font-weight: bold;">
+            {{ post.title }}
           </span>
         {% else %}
           {% if post.redirect == blank %}

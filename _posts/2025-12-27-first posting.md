@@ -12,8 +12,6 @@ disqus_comments: true
 
 Hello.
 
-I am spinemaster, and I am writing to welcome you to my new blog. I chose the nickname "spinemaster" because I have specialized in spine surgery for over 35 years. Even now, I remain as active in the operating room as any younger surgeon, so I believe I can use this title without hesitation.
-
 For about 30 years, I served as a spine specialist at one of Korea’s top four major hospitals. Throughout my career, I have focused exclusively on spine surgery, particularly specializing in spinal deformities, spinal tumors, and high-complexity surgical cases.
 
 I remain deeply involved in both surgical and academic activities regarding spinal deformities—specifically pediatric and adult spinal deformities—and have authored numerous chapters in spinal surgery textbooks. I had originally prepared materials to publish a book for the general public; however, realizing that most people today seek information via social media or online platforms rather than physical books, I decided to share this content through a blog instead. I warmly welcome all patients and visitors interested in this field.

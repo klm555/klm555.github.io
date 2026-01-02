@@ -9,7 +9,7 @@ profile:
   image: cslee.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>척추변형센터</p>
+    <p>Spine Center</p>
     <p>Bumin Hospital, Haeundae</p>
     <p>Busan, Republic of Korea</p>
 
